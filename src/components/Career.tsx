@@ -27,7 +27,7 @@ const Career = () => {
             <div className="career-role-block">
               <div className="career-role-heading">
                 <h4>01 — Frontend Engineer</h4>
-                <span>05 Jun — 05 Jul 2025</span>
+                <span>05 Jun — 05 Jul 2024</span>
               </div>
 
 <p>
@@ -39,7 +39,7 @@ const Career = () => {
             <div className="career-role-block">
               <div className="career-role-heading">
                 <h4>02 — Full Stack Developer</h4>
-                <span>05 Jul — 05 Aug 2025</span>
+                <span>05 Jul — 05 Aug 2024</span>
               </div>
 
 <p>
