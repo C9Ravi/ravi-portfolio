@@ -3,27 +3,23 @@ import "./styles/Work.css";
 import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
-  {
-    title: "Wander AI",
-    category: "Travel Assistant Platform",
-    tools: "Node.js, Express.js, MongoDB, REST APIs, Google Gemini API",
-    image: "/images/callhq.png",
-    link: "https://github.com/supratim-nath/Wander-AI---Travel-Assistant-Platform",
-  },
-  {
-    title: "Campus Lost & Found Platform",
-    category: "Web Platform",
-    tools: "Node.js, Express.js, MongoDB, JavaScript, HTML, CSS",
+
+   {
+    title: "BetterDev",
+    category: "AI Code Review Platform",
+    tools: "React, JavaScript, CSS, AI Integration",
     image: "/images/broki.png",
-    link: "https://github.com/supratim-nath/Campus-Lost_and_found",
+    link: "https://github.com/C9Ravi/BetterDev",
   },
+  
   {
-    title: "Deep Packet Inspection (DPI) Engine",
-    category: "Network Traffic Analysis",
-    tools: "C++, Networking, Multithreading",
-    image: "/images/orrdr.png",
-    link: "https://github.com/supratim-nath/DPI-Engine---Deep-Packet-Inspection-System",
+    title: "FitTrack",
+    category: "Fitness Tracking Web App",
+    tools: "React, TypeScript, CSS, Responsive UI",
+    image: "/images/callhq.png",
+    link: "https://github.com/C9Ravi/FitTrack",
   },
+ 
 ];
 
 const Work = () => {

@@ -6,7 +6,14 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Full-Stack Software Engineer (Fresher) with experience in software engineering, developing and maintaining scalable web applications, APIs, and backend systems. Skilled in writing clean code, testing, debugging, and improving performance. Familiar with databases, Git, and cloud platforms. Strong problem-solving skills with knowledge of data structures and algorithms.
+Building scalable, user-focused web applications with the MERN stack while growing my expertise in Full-Stack engineering, DevOps, cloud, and AI/ML.
+
+I enjoy solving real-world problems, writing clean code, and learning through hands-on projects and modern software practices.
+
+Currently exploring SDE, Full-Stack, and AI-driven opportunities to contribute, learn, and build impactful products.
+
+Outside tech, you'll find me creating content, listening to music, or at the gym.
+
         </p>
       </div>
     </div>

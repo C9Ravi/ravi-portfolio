@@ -8,8 +8,7 @@ import { TbNotes } from "react-icons/tb";
 import { useEffect } from "react";
 import HoverLinks from "./HoverLinks";
 
-const RESUME_URL =
-  "https://drive.google.com/file/d/1zi0rkau3Mln6Mp403kS0huQyQhYvc97R/view?usp=sharing";
+const RESUME_URL = "#";
 
 const SocialIcons = () => {
   useEffect(() => {
@@ -68,7 +67,7 @@ const SocialIcons = () => {
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
           <a
-            href="https://github.com/supratim-nath"
+            href="https://github.com/C9Ravi"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Open GitHub profile"
@@ -79,7 +78,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.linkedin.com/in/supratim-nath10"
+            href="https://www.linkedin.com/in/ravi-chauhan-44ba85290/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Open LinkedIn profile"
@@ -90,7 +89,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.instagram.com/__.supratim._._?igsh=ZWNrZDF2ZXpuMTFu"
+            href="https://www.instagram.com/raviichauhann"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Open Instagram profile"
@@ -105,7 +104,7 @@ const SocialIcons = () => {
         href={RESUME_URL}
         target="_blank"
         rel="noopener noreferrer"
-        aria-label="Open Supratim Nath resume in Google Drive"
+        aria-label="Resume"
         title="Open resume"
         data-cursor="disable"
       >

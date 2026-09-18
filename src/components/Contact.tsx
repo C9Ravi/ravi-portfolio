@@ -6,82 +6,84 @@ const Contact = () => {
     <div className="contact-section section-container" id="contact">
       <div className="contact-container">
         <h3>Contact</h3>
+
         <div className="contact-flex">
           <div className="contact-box">
             <h4>Connect</h4>
+
             <p>
               <a
-                href="https://www.linkedin.com/in/supratim-nath10"
+                href="https://www.linkedin.com/in/ravi-chauhan-44ba85290/"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
               >
-                LinkedIn — supratim-nath10
+                LinkedIn — ravi-chauhan-44ba85290
               </a>
             </p>
+
             <h4>Education</h4>
+
+            <p>B.Tech in Computer Engineering (with spec. in Data Science)</p>
+
             <p>
-              B.Tech in Computer Science and Engineering, KIIT University | CGPA: 7.9
-            </p>
-            <p>
-              AISSCE, Durgapur Public School | Percentage: 85%
-            </p>
-            <p>
-              ICSE, St. Xavier's School | Percentage: 91.2%
+              J.C. Bose University of Science and Technology,
+              YMCA, Faridabad
             </p>
           </div>
+
           <div className="contact-box">
             <h4>Social</h4>
+
             <a
-              href="https://github.com/supratim-nath"
+              href="https://github.com/C9Ravi"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
-              className="contact-social"
             >
               GitHub <MdArrowOutward />
             </a>
+
             <a
-              href="https://www.linkedin.com/in/supratim-nath10"
+              href="https://www.linkedin.com/in/ravi-chauhan-44ba85290/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
-              className="contact-social"
             >
               LinkedIn <MdArrowOutward />
             </a>
+
             <a
-              href="https://www.instagram.com/__.supratim._._?igsh=ZWNrZDF2ZXpuMTFu"
+              href="https://www.instagram.com/raviichauhann"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
-              className="contact-social"
             >
               Instagram <MdArrowOutward />
             </a>
+
             <a
-              href="mailto:supratim0610@gmail.com"
+              href="https://x.com/c09Ravi"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
-              className="contact-social"
+            >
+              Twitter / X <MdArrowOutward />
+            </a>
+
+            <a
+              href="mailto:singhraviiii17@gmail.com"
+              data-cursor="disable"
             >
               Email <MdArrowOutward />
             </a>
-            <a
-              href="tel:+919749913651"
-              target="_blank"
-              rel="noreferrer"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Phone <MdArrowOutward />
-            </a>
           </div>
+
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Supratim Nath</span>
+              Designed and Developed <br /> by <span>Ravi Singh</span>
             </h2>
+
             <h5>
               <MdCopyright /> 2026
             </h5>

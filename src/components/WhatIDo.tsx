@@ -92,20 +92,21 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Engaging User Interfaces</h4>
-              <p>
-                Frontend developer specialized in building modern, responsive, and beautiful web applications focusing on smooth user experiences.
-              </p>
-              <h5>Skillset & tools</h5>
-              <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">HTML & CSS</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Tailwind CSS</div>
-                <div className="what-tags">Bootstrap</div>
-                <div className="what-tags">UI/UX</div>
-              </div>
+ <h3>FRONTEND</h3>
+<h4>Modern User Interfaces</h4>
+<p>
+  Building responsive and interactive web interfaces with a focus on clean
+  design, usability, and smooth user experiences.
+</p>
+<h5>Skillset & tools</h5>
+<div className="what-content-flex">
+  <div className="what-tags">React.js</div>
+  <div className="what-tags">JavaScript</div>
+  <div className="what-tags">TypeScript</div>
+  <div className="what-tags">HTML & CSS</div>
+  <div className="what-tags">Responsive Design</div>
+  <div className="what-tags">UI/UX</div>
+</div>
               <div className="what-arrow"></div>
             </div>
           </div>
@@ -128,22 +129,21 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND</h3>
-              <h4>Scalable Systems</h4>
-              <p>
-                I build the backend systems behind it: APIs, database architectures, and
-                real-time functionality using robust modern tech stacks.
-              </p>
-              <h5>Skillset & tools</h5>
-              <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Python&amp;C++</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">MySQL</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">Docker</div>
-                <div className="what-tags">Git &amp; GitHub</div>
-              </div>
+<h3>BACKEND</h3>
+<h4>APIs & Server-Side Development</h4>
+<p>
+  Developing reliable backend services, REST APIs, and database-driven
+  applications with a focus on clean architecture and performance.
+</p>
+<h5>Skillset & tools</h5>
+<div className="what-content-flex">
+  <div className="what-tags">Node.js</div>
+  <div className="what-tags">Express.js</div>
+  <div className="what-tags">REST APIs</div>
+  <div className="what-tags">MongoDB</div>
+  <div className="what-tags">MySQL</div>
+  <div className="what-tags">Git & GitHub</div>
+</div>
               <div className="what-arrow"></div>
             </div>
           </div>
